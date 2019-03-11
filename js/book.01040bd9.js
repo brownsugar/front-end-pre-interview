@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["book"],{"1b14":function(e,n,t){},"8bf3":function(e,n,t){"use strict";t.r(n);var o=function(){var e=this,n=e.$createElement,t=e._self._c||n;return t("router-view",{staticClass:"book"})},c=[],s={name:"book"},a=s,r=(t("8ef5"),t("2877")),u=Object(r["a"])(a,o,c,!1,null,"88bc9b92",null);n["default"]=u.exports},"8ef5":function(e,n,t){"use strict";var o=t("1b14"),c=t.n(o);c.a}}]);
+//# sourceMappingURL=book.01040bd9.js.map
